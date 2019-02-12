@@ -1,4 +1,4 @@
-# Chain-Flocking
+# Chain Flocking
 A test with emergent behaviour based on simple flocking algorithms
 
 ![flocking patterns](https://i.imgur.com/xAVBIjP.png)
